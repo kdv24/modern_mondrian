@@ -38,6 +38,17 @@ body, html {
 	background-color: black;
 }
 
+.chartreuse {
+	background-color: #b0f40b;
+}
+
+.periwinkle {
+	background-color: #4597f4;
+}
+
+.magenta {
+	background-color: #f42fe8
+}
 
 .right {
 	float: right;
